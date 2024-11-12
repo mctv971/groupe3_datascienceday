@@ -1,0 +1,31 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+venv/
+.env
+*.log
+*.tmp
+
+# R
+*.Rhistory
+*.RData
+*.Rproj.user/
+
+# JavaScript
+node_modules/
+package-lock.json
+dist/
+build/
+.env
+
+# Ignorer les fichiers temporaires des notebooks
+.ipynb_checkpoints/
+
+# Ignorer les fichiers de configuration spécifique à un IDE
+.vscode/
+.idea/
+
+# Ignorer les fichiers de compilation
+*.pyc
+__pycache__/
